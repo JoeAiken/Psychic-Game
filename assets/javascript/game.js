@@ -17,6 +17,7 @@ document.onkeyup = function(event) {
 
     var computerLetter = randomLetter
 
+
     if (userGuess == computerLetter) {
         wins++;
         numGuess = 9;

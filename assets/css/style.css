@@ -1,0 +1,13 @@
+.jumbotron {
+
+    text-align: center;
+    font-family: cursive;
+    background-image: url('http://www.skeptics.com.au/wp-content/uploads/psychic.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 5%;
+}
+
+#game {
+    color: white;
+}
